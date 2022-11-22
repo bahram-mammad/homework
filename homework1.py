@@ -12,3 +12,4 @@
 #print(not 'z' in 'python')
 #print('Men ' + "Python " + "oyrenirem")
 #print(type(6/3))
+salam
