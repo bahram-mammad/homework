@@ -10,3 +10,4 @@
 #3) text = input('metni daxil edin:' )
 # result = ''.joins(format(ord(i), '08b') for i in text)
 # print(result)
+
